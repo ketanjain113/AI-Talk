@@ -1,4 +1,4 @@
-![AI-Talk logo](assets/Readme-asset/11667668_20945514.svg)
+![AI-Talk logo](assets/Readme-asset/Ass1.png)
 # 🤖 AI-Talk: Your Personal AI Chat Companion
 Welcome to **AI-Talk**, an interactive web application that brings conversational AI to your fingertips Engage in real-time dialogues with an AI assistant, exploring a wide range of topics and receiving instant responses
 
