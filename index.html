@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-Talk</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/logo 180.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/logo 32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/logo 16.png">
+    <link rel="manifest" href="site.webmanifest">
+</head>
+<body>
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="model-version">AI Chat</div>
+            </div>
+            
+            <div class="sidebar-actions">
+                <button class="new-chat-btn">
+                    <i class="fas fa-plus"></i>
+                </button>
+            </div>
+            
+            <nav class="sidebar-nav">
+                <ul class="nav-items">
+                    <li class="nav-item">
+                        <i class="fas fa-heart"></i>
+                    </li>
+                    <li class="nav-item">
+                        <i class="fas fa-question-circle"></i>
+                    </li>
+                    <li class="nav-item">
+                        <i class="fas fa-history"></i>
+                    </li>
+                    <li class="nav-item">
+                        <i class="fas fa-cog"></i>
+                    </li>
+                </ul>
+            </nav>
+        </aside>
+
+        <main class="main-content">
+            <div class="top-bar">
+                <div class="user-actions">
+                    <button class="user-avatar">
+                        <img src="https://img.icons8.com/?size=100&id=kDoeg22e5jUY&format=png&color=000000" alt="User avatar">
+                    </button>
+                </div>
+            </div>
+
+            <div class="chat-container">
+                <div class="chat-messages" id="chat-messages">
+                    <div class="welcome-container">
+                        <h1 class="welcome-message">Hello, <span class="username">Nice to meet you!</span></h1>
+                    </div>
+                </div>
+
+                <div class="input-container">
+                    <form id="chat-form">
+                        <div class="input-wrapper">
+                            <textarea id="user-input" placeholder="Ask me anything..." rows="1"></textarea>
+                            <div class="input-actions">
+                                <button type="button" class="icon-btn mic-btn">
+                                    <i class="fas fa-microphone"></i>
+                                </button>
+                                <button type="submit" class="icon-btn send-btn">
+                                    <i class="fas fa-paper-plane"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
