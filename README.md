@@ -1,4 +1,4 @@
-![AI-Talk logo](assets/Readme-asset/logo.png)
+![AI-Talk logo]([assets/Readme-asset/logo.png](https://img.freepik.com/premium-vector/people-talk-with-chatbot-robots-smartphone-app_701961-990.jpg?w=1060))
 # 🤖 AI-Talk: Your Personal AI Chat Companion
 Welcome to **AI-Talk**, an interactive web application that brings conversational AI to your fingertips Engage in real-time dialogues with an AI assistant, exploring a wide range of topics and receiving instant responses
 
