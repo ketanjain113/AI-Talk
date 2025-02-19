@@ -1,4 +1,4 @@
-![AI-Talk logo](\assets\Readme-asset\logo.png)
+![AI-Talk logo](assets/Readme-asset/logo.png)
 # 🤖 AI-Talk: Your Personal AI Chat Companion
 Welcome to **AI-Talk**, an interactive web application that brings conversational AI to your fingertips Engage in real-time dialogues with an AI assistant, exploring a wide range of topics and receiving instant responses
 
@@ -29,7 +29,7 @@ To experience it onhand visit https://remarkable-beijinho-83e1d2.netlify.app/.
 
 ## 📸 Preview
 
-![AI-Talk Screenshot](\assets\Readme-asset\screenshot.png)
+![AI-Talk Screenshot](assets/Readme-asset/screenshot.png)
 
 ## 🤝 Contribuing
 
