@@ -1,6 +1,6 @@
 # 🤖 AI-Talk: Your Personal AI Chat Companion
 Welcome to **AI-Talk**, an interactive web application that brings conversational AI to your fingertips Engage in real-time dialogues with an AI assistant, exploring a wide range of topics and receiving instant responses
-<img src="assets/Readme-asset/Ass1.png" alt="Description" width="400" height="300">
+<img src="assets/Readme-asset/Ass1.png" alt="Description" width="250" height="250">
 
 To experience it onhand visit https://remarkable-beijinho-83e1d2.netlify.app/.
 
